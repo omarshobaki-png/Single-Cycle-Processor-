@@ -92,7 +92,7 @@ Simulation verified correct data movement, PC updates, control signals, and bran
 
 ## Documentation
 For full technical details, schematics, and simulation results, refer to the complete project report:  
-[Download Report (PDF)](./Orga%20Report%20(1).pdf)
+[Download Report (PDF)](./Report.pdf)
 
 ---
 
